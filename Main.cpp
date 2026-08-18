@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cctype>
+#include <cmath>
 using namespace std;
 
 double quadratic() {
